@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=crysthianzaar" alt="dexternatan" />
 </p>
 
-## Hi there, I'm Crysthian Zanote! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there, I'm Crysthian Armini! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### ℹ️ About me
 
