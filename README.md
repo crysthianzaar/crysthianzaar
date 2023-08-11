@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### ℹ️ About me
 
 * 👨‍💻 Software Developer at [Objective](https://www.objective.com.br/).
-* 👨‍🎓 Computer engineering student
+* 👨‍🎓 Computer Engineer
 * 💜 Passionate about technology
 
 
