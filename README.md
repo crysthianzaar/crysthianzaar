@@ -21,6 +21,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-Gmail-D54B3D?style=flat-square&logo=Gmail&logoColor=white" />
 	  </a>
     <img src="https://komarev.com/ghpvc/?username=crysthianzaar" alt="dexternatan" />
+	<a href="https://wakatime.com/@c68f2d08-aa0d-46c4-b71a-a873ef7afe30"><img src="https://wakatime.com/badge/user/c68f2d08-aa0d-46c4-b71a-a873ef7afe30.svg" alt="Total time coded since Aug 10 2023" /></a>
 </p>
 
 ## Hi there, I'm Crysthian Armini! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
